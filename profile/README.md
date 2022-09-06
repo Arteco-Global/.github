@@ -1,4 +1,4 @@
-![Open Source at Arteco Global](https://media-exp1.licdn.com/dms/image/C4D0BAQHGmhY_1AIKKg/company-logo_200_200/0/1555679233093?e=2147483647&v=beta&t=XXUsUIkYaae1PSQWx69xotPzKkP7eXIARYQ9VIB16hs) 
+![Open Source at Arteco Global](https://www.arteco-global.com/wp-content/uploads/2019/07/arteco-mexico.png) 
 
 ## Get Involved
 

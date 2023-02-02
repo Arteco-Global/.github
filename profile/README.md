@@ -28,8 +28,7 @@ In a world of ever-changing technology needs, ARTECO stands-out as a leader in I
 
 * [Mobile-API](https://arteco-global.github.io/Mobile-API-Docs/)
 * [Integrations](https://arteco-global.github.io/integrations/)
-
-Are you a software developer, work with us: 
+* Are you a software developer ? , work with us: 
 [Linkedin](https://www.linkedin.com/search/results/all/?keywords=arteco%20global&origin=GLOBAL_SEARCH_HEADER&sid=jil)
 ----
 

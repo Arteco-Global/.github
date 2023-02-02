@@ -24,4 +24,13 @@ In a world of ever-changing technology needs, ARTECO stands-out as a leader in I
 
 ----
 
+## Be part of the team
+
+* [Mobile-API](https://arteco-global.github.io/Mobile-API-Docs/)
+* [Integrations](https://arteco-global.github.io/integrations/)
+
+Are you a software developer, work with us: 
+[Linkedin](https://www.linkedin.com/search/results/all/?keywords=arteco%20global&origin=GLOBAL_SEARCH_HEADER&sid=jil)
+----
+
 Arteco Global projects adopt the [Arteco Global Open Source Code of Conduct](https://www.arteco-global.com/en/video-security/). For more information see the [Code of Conduct FAQ](https://www.arteco-global.com/en/video-security/).

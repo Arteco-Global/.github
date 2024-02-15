@@ -34,4 +34,5 @@ In a world of ever-changing technology needs, ARTECO stands-out as a leader in I
 
 Arteco Global projects adopt the [Arteco Global Open Source Code of Conduct](https://www.arteco-global.com/en/video-security/). For more information see the [Code of Conduct FAQ](https://www.arteco-global.com/en/video-security/).
 
-<iframe src="https://status.usee.cloud" width="1000" height="800"></iframe>
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/112ry.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
